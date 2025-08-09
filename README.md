@@ -13,10 +13,11 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Java, SQL, C (Basic), HTML, CSS  
-**Tools & Tech:** MySQL, Arduino IDE, ESP32  
-**Concepts:** OOP, DBMS Basics, IoT Integration  
-**DSA Topics:** Arrays, Strings, HashMap, ArrayList, Recursion, Binary Search, Linked List  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
