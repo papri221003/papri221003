@@ -8,25 +8,24 @@
 ## 🚀 About Me
 - Motivated **Electronics & Communication** undergraduate with strong skills in **Java**, **SQL**, and **IoT systems**  
 - Passionate about building impactful applications — from **banking software** to **IoT monitoring systems**  
-- Problem-solving mindset with a focus on clean, modular code  
+- Problem-solving mindset with a focus on clean, modular code
 
----
-
+  
 ## 🛠 Tech Stack
 
 <p align="center">
   <!-- Row 1: left → right -->
   <marquee behavior="scroll" direction="left" scrollamount="6" style="margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />&nbsp;&nbsp;
   </marquee>
 
   <!-- Row 2: right → left -->
   <marquee behavior="scroll" direction="right" scrollamount="4" style="margin-top:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Java%20DSA-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28" alt="Java DSA" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" />&nbsp;&nbsp;
   </marquee>
 </p>
@@ -34,14 +33,15 @@
 <!-- Static fallback -->
 <p align="center"><b>Languages & Tools I Work With</b></p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/Java%20DSA-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28" alt="Java DSA" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" />&nbsp;
+  <img src="https://img.shields.io/badge/Java%20DSA-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28" alt="Java DSA" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" />
 </p>
+
 
 
 ## 📌 Featured Projects
