@@ -35,7 +35,7 @@
 
 ## 📌 Featured Projects
 
-### 🏦 [ATM Simulation & Bank Management System](https://github.com/papri221003/Bank-Management-System)
+### 🏦 [ATM Simulation & Bank Management System](https://github.com/papri221003/Bank_management_System)
 - User login, balance inquiry, PIN change, and transaction history  
 - JDBC integration with MySQL database  
 - Applied OOP concepts for modular design and exception handling  
@@ -59,9 +59,9 @@
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/papri221003)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/papri-bhattacharjee-5a1311251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<p>
-📧 **Email:** bhpapri03@gmail.com
-</p>
+<div>
+📧 **Email:**bhpapri03@gmail.com
+
 
 ---
 
