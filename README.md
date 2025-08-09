@@ -60,11 +60,20 @@
 
 ## 📫 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/papri221003)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/papri-bhattacharjee-5a1311251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📧 **Email:** [bhpapri03@gmail.com](mailto:bhpapri03@gmail.com)
+<a href="https://github.com/papri221003">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/papri-bhattacharjee-5a1311251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:bhpapri03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
+
 
 
 
