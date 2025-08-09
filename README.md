@@ -22,13 +22,7 @@
     <img src="https://img.shields.io/badge/Java%20DSA-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="28" alt="Java DSA" />&nbsp;&nbsp;
   </marquee>
 
-  <!-- Row 2: right → left -->
-  <marquee behavior="scroll" direction="right" scrollamount="4" style="margin-top:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" />&nbsp;&nbsp;
-  </marquee>
-</p>
+
 
 <!-- Static fallback -->
 <p align="center"><b>Languages & Tools I Work With</b></p>
