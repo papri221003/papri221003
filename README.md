@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- Motivated **Electronics & Communication** undergraduate with strong skills in **Java**, **SQL**, and **IoT systems**  
+- Motivated **Electronics & Communication** undergraduate with strong skills in **Java**, **SQL**, **IoT systems**,and **Web Development**  
 - Passionate about building impactful applications — from **banking software** to **IoT monitoring systems**  
 - Problem-solving mindset with a focus on clean, modular code
 
@@ -52,7 +52,6 @@
 
 ![Papri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=papri221003&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=papri221003&layout=compact&theme=radical)  
-
 ---
 
 ## 📫 Connect With Me  
