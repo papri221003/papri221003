@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Papri Bhattacharjee  
 
-<!-- 🌄 Animated Scenery Banner -->
+<!-- 🌌 Animated Cozy Scenery Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/VWgJ6k7/night-city.gif" alt="Animated Scenery" width="100%" height="auto" />
+  <img src="https://i.ibb.co/YcXx2nV/cozy-night-scenery.gif" alt="Animated Scenery" width="100%" height="auto" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ✨ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF61F6&center=true&vCenter=true&width=650&lines=Java+Developer;IoT+Enthusiast;Electronics+%26+Communication+Undergrad;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
@@ -18,7 +18,7 @@
 ## 🚀 About Me
 - Motivated **Electronics & Communication** undergraduate with strong skills in **Java**, **SQL**, **IoT systems**, and **Web Development**  
 - Passionate about building impactful applications — from **banking software** to **IoT monitoring systems**  
-- Problem-solving mindset with a focus on clean, modular code
+- Problem-solving mindset with a focus on clean, modular code  
 
 ---
 
