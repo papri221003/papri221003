@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Papri Bhattacharjee  
 
+<!-- 🌄 Animated Scenery Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF61F6&center=true&vCenter=true&width=600&lines=Java+Developer;IoT+Enthusiast;Electronics+%26+Communication+Undergrad;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://i.ibb.co/VWgJ6k7/night-city.gif" alt="Animated Scenery" width="100%" height="auto" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF61F6&center=true&vCenter=true&width=650&lines=Java+Developer;IoT+Enthusiast;Electronics+%26+Communication+Undergrad;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
 
 💻 Java Developer | 🛠 IoT Enthusiast  
