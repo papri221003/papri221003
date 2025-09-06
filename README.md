@@ -27,25 +27,15 @@
 
 ## 🛠 Tech Stack
 
-<!-- 🛠 Tech Stack (Scrolling Icons) -->
+## 🛠 Tech Stack
+
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
-  </marquee>
+  <!-- Animated Tech Icons -->
+  <img src="https://i.imgur.com/7qf3X6Q.gif" alt="Animated Tech Stack" width="600" />
 </p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
-  </marquee>
+  Java | MySQL | C++ | C | HTML5 | CSS3 | JavaScript
 </p>
 
 ---
