@@ -2,8 +2,9 @@
 
 <!-- 🌌 Animated Cozy Scenery Banner -->
 <p align="center">
-  <img src="[[https://i.ibb.co/YcXx2nV/cozy-night-scenery.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl4YTM1Nm41cHJ5Zmlxb2ExOG51cnVqZ3owZjR0MXlhdXV6cHhuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SJhhRPXjaTGe5MKz5N/giphy.gif)](https://raw.githubusercontent.com/papri221003/Not_imp/refs/heads/main/Rainy%20Night%20GIF.gif)" alt="Animated Scenery" width="100%" height="auto" />
+  <img src="https://raw.githubusercontent.com/papri221003/Not_imp/refs/heads/main/Rainy%20Night%20GIF.gif" alt="Animated Scenery" width="100%" height="auto" />
 </p>
+
 
 <!-- ✨ Typing Animation -->
 <p align="center">
