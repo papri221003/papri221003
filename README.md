@@ -2,7 +2,10 @@
 
 <!-- 🌌 Animated Cozy Scenery Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhsMGQwb3JxeDR2YmE2b3RlNnp0cnMwYjk2eWp2Y2kxczB0aDE1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9YXZMSnQzkwx7w4Mo/giphy.gif" alt="Animated Scenery" width="600" height="auto" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhsMGQwb3JxeDR2YmE2b3RlNnp0cnMwYjk2eWp2Y2kxczB0aDE1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9YXZMSnQzkwx7w4Mo/giphy.gif" 
+       alt="Animated Scenery" 
+       width="300" 
+       height="auto" />
 </p>
 
 <!-- ✨ Typing Animation -->
