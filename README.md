@@ -25,6 +25,7 @@
 
 ---
 
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -53,14 +54,6 @@
 
 ---
 
-## 🔥 GitHub Streaks  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papri221003&theme=radical&hide_border=false" alt="Papri's Streak Stats" />
-</p>
-
----
-
 ## 📫 Connect With Me  
 
 <p align="center">
@@ -76,3 +69,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
+add here the max streak possition
