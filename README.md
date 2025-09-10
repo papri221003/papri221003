@@ -53,17 +53,6 @@
 
 ---
 
-## 🔥 Daily Activity & Streak Tracker  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=papri221003&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papri221003&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 
