@@ -25,7 +25,6 @@
 
 ---
 
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -50,6 +49,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=papri221003&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papri221003&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
+## 🔥 Daily Activity & Streak Tracker  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=papri221003&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papri221003&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
