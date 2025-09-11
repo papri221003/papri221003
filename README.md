@@ -60,12 +60,7 @@
 
 ---
 
-## 🔥 GitHub Streaks  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=papri221003&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" width="450" />
-</p>
-
+## 🔥 GitHub Streaks 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=papri221003&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=450&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=AAAAAA" alt="Max Streak" width="450" />
 </p>
