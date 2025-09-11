@@ -25,11 +25,11 @@
 
 ---
 
+
 ## 🛠 Tools & Techs  
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <!-- Programming Languages -->
+  <marquee behavior="alternate" direction="left" scrollamount="5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" />&nbsp;&nbsp;
@@ -46,6 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" alt="Adobe Illustrator" />
   </marquee>
 </p>
+
 
 
 ---
