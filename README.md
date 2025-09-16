@@ -60,11 +60,19 @@
 
 ---
 
-## 🔥 GitHub Streaks 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=papri221003&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=AAAAAA" />
+## 🔥 GitHub Streak
 
+<p align="center">
+  <a href="https://github.com/papri221003" target="_blank" rel="noopener">
+    <img
+      alt="Papri's GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com?user=papri221003&theme=radical&hide_border=false&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=AAAAAA"
+    />
+  </a>
+  <br/>
+  <sub>📈 Keeping the streak alive — one commit at a time.</sub>
 </p>
+
 
 
 ## 📫 Connect With Me  
