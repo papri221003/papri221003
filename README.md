@@ -63,12 +63,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=papri221003&theme=gruvbox&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B&ring=FF6B6B&currStreakNum=FF6B6B&sideNums=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=AAAAAA&v=2" alt="GitHub Streak"/>
+  <a href="https://github.com/papri221003" target="_blank" rel="noopener">
+    <img 
+      src="https://streak-stats.demolab.com?user=papri221003&theme=gruvbox&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B&ring=FF6B6B&currStreakNum=FF6B6B&sideNums=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=AAAAAA&v=2" 
+      alt="Papri's GitHub Streak" 
+    />
+  </a>
+  <br/>
+  <sub>📈 Keeping the streak alive — one commit at a time.</sub>
 </p>
-
-
-
-
 
 
 ## 📫 Connect With Me  
