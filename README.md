@@ -60,18 +60,16 @@
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=papri221003&theme=gruvbox&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" 
-         alt="GitHub Streak for Papri" />
+  <a href="https://github.com/papri221003">
+    <img src="https://git-hub-streak-stats.vercel.app?user=papri221003&theme=gruvbox&hide_border=true&border_radius=8"
+         alt="GitHub Streak for papri221003" />
   </a>
   <br/>
   <sub>📈 Keeping the streak alive — one commit at a time.</sub>
 </p>
-
 
 
 ## 📫 Connect With Me  
