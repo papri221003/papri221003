@@ -64,13 +64,14 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=papri221003&theme=gruvbox&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" 
          alt="GitHub Streak for Papri" />
   </a>
-   <br/>
+  <br/>
   <sub>📈 Keeping the streak alive — one commit at a time.</sub>
 </p>
+
 
 
 ## 📫 Connect With Me  
