@@ -60,16 +60,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <a href="https://github.com/papri221003">
-    <img src="https://git-hub-streak-stats.vercel.app?user=papri221003&theme=gruvbox&hide_border=true&border_radius=8"
-         alt="GitHub Streak for papri221003" />
-  </a>
-  <br/>
-  <sub>📈 Keeping the streak alive — one commit at a time.</sub>
-</p>
 
 
 ## 📫 Connect With Me  
