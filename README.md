@@ -7,7 +7,6 @@
        width="300" 
        height="auto" />
 </p>
-
 <!-- ✨ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF61F6&center=true&vCenter=true&width=650&lines=Java+Developer;IoT+Enthusiast;Electronics+%26+Communication+Undergrad;Passionate+Problem+Solver" alt="Typing SVG" />
@@ -26,7 +25,6 @@
 ---
 
 ## 🛠 Tools & Techs  
-
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />&nbsp;
